@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "tree-pollen",
+    "name": "Tree Pollen",
+    "category": "tree",
+    "peakMonths": [3, 4, 5],
+    "peakSeason": "Spring",
+    "description": "Tree pollen is one of the most common causes of seasonal allergies. Trees begin releasing pollen in early spring, sometimes as early as February in southern states. Oak, birch, cedar, and maple are among the most problematic species.",
+    "symptoms": ["Sneezing", "Runny nose", "Itchy eyes", "Nasal congestion", "Itchy throat"],
+    "prevention": ["Check daily pollen counts", "Keep windows closed during peak season", "Shower after outdoor activities", "Wear sunglasses outdoors", "Use HEPA air purifiers"],
+    "affectedStates": ["GA", "TN", "VA", "NC", "TX", "KY", "MS"]
+  },
+  {
+    "slug": "grass-pollen",
+    "name": "Grass Pollen",
+    "category": "grass",
+    "peakMonths": [5, 6, 7, 8],
+    "peakSeason": "Summer",
+    "description": "Grass pollen is the primary allergen from late spring through summer. Timothy grass, Kentucky bluegrass, Bermuda grass, and ryegrass are common culprits. Agricultural regions have particularly high grass pollen counts.",
+    "symptoms": ["Sneezing", "Runny nose", "Watery eyes", "Skin rash", "Asthma flares"],
+    "prevention": ["Avoid mowing lawns", "Stay indoors on high count days", "Take antihistamines before exposure", "Wear a mask when outdoors", "Keep car windows closed"],
+    "affectedStates": ["KS", "OK", "TX", "KY", "MO", "NE", "IN"]
+  },
+  {
+    "slug": "weed-pollen",
+    "name": "Weed Pollen",
+    "category": "weed",
+    "peakMonths": [8, 9, 10],
+    "peakSeason": "Fall",
+    "description": "Weed pollen dominates the fall allergy season. Ragweed is the most notorious weed allergen, producing billions of pollen grains per plant. Other problematic weeds include mugwort, lamb's quarters, and pigweed.",
+    "symptoms": ["Sneezing", "Itchy nose", "Watery eyes", "Fatigue", "Headaches"],
+    "prevention": ["Monitor ragweed forecasts", "Avoid outdoor activities 5-10am", "Change clothes after coming inside", "Use allergy medications", "Consider immunotherapy"],
+    "affectedStates": ["OK", "KS", "TX", "MO", "TN", "AL", "VA"]
+  },
+  {
+    "slug": "ragweed",
+    "name": "Ragweed",
+    "category": "weed",
+    "peakMonths": [8, 9, 10],
+    "peakSeason": "Fall",
+    "description": "Ragweed is the most significant allergy trigger in North America. A single plant can produce up to one billion pollen grains. Its pollen can travel hundreds of miles on the wind. About 75% of people with plant allergies are allergic to ragweed.",
+    "symptoms": ["Severe sneezing", "Runny or stuffy nose", "Itchy watery eyes", "Itchy throat", "Postnasal drip"],
+    "prevention": ["Start medications before season", "Stay inside when windy", "Use air conditioning", "Shower before bed", "Check ragweed forecasts"],
+    "affectedStates": ["OK", "KS", "TX", "MO", "TN", "AL", "VA", "NC"]
+  },
+  {
+    "slug": "oak",
+    "name": "Oak Pollen",
+    "category": "tree",
+    "peakMonths": [3, 4, 5],
+    "peakSeason": "Spring",
+    "description": "Oak trees are one of the longest and heaviest pollen producers among trees. Oak pollen season can last from February through May depending on location. Oak trees are ubiquitous across the eastern United States, making this allergen hard to avoid.",
+    "symptoms": ["Sneezing", "Congestion", "Itchy eyes", "Runny nose", "Sinus pressure"],
+    "prevention": ["Monitor local oak pollen counts", "Take antihistamines preventatively", "Keep car and home windows closed", "Use air purifiers", "Rinse eyes with clean water"],
+    "affectedStates": ["GA", "NC", "VA", "TN", "TX", "FL", "LA"]
+  },
+  {
+    "slug": "birch",
+    "name": "Birch Pollen",
+    "category": "tree",
+    "peakMonths": [3, 4, 5],
+    "peakSeason": "Spring",
+    "description": "Birch pollen is a major allergen in northern climates. It's also cross-reactive with many foods including apples, cherries, peaches, hazelnuts, and carrots. About 25% of pollen allergy sufferers are sensitive to birch pollen.",
+    "symptoms": ["Sneezing", "Itchy eyes", "Oral allergy syndrome", "Runny nose", "Fatigue"],
+    "prevention": ["Avoid peeling birch-cross-reactive foods", "Cook foods to reduce cross-reactivity", "Wear pollen masks outdoors", "Monitor birch season forecasts"],
+    "affectedStates": ["MN", "WI", "MI", "NY", "ME", "VT", "NH"]
+  },
+  {
+    "slug": "cedar",
+    "name": "Cedar / Juniper Pollen",
+    "category": "tree",
+    "peakMonths": [12, 1, 2],
+    "peakSeason": "Winter",
+    "description": "Mountain cedar (Ashe juniper) causes 'cedar fever' in Texas from December through February. It's one of the most intense allergy seasons anywhere in the United States, with pollen counts often reaching extreme levels. Symptoms can mimic the flu.",
+    "symptoms": ["Heavy sneezing", "Severe congestion", "Fever-like fatigue", "Itchy watery eyes", "Sinus pressure"],
+    "prevention": ["Stock up on antihistamines in November", "Use nasal corticosteroids", "Run air conditioning instead of opening windows", "Wear N95 masks outdoors", "Consider allergy shots"],
+    "affectedStates": ["TX", "OK", "NM", "AR"]
+  },
+  {
+    "slug": "maple",
+    "name": "Maple Pollen",
+    "category": "tree",
+    "peakMonths": [2, 3, 4],
+    "peakSeason": "Spring",
+    "description": "Maple trees are among the earliest spring pollinators, beginning to release pollen while snow is still on the ground in some regions. Box elder, a type of maple, is particularly prolific. Maple allergies can overlap with other early spring allergens.",
+    "symptoms": ["Early spring sneezing", "Nasal congestion", "Itchy eyes", "Runny nose"],
+    "prevention": ["Prepare allergy medications in late winter", "Monitor early spring pollen forecasts", "Keep windows closed on warm early spring days"],
+    "affectedStates": ["MN", "WI", "IL", "OH", "PA", "NY", "VA"]
+  },
+  {
+    "slug": "mold-spores",
+    "name": "Mold Spores",
+    "category": "mold",
+    "peakMonths": [7, 8, 9, 10],
+    "peakSeason": "Summer",
+    "description": "Mold spores are present year-round but peak in warm, humid conditions. Outdoor mold grows on decaying leaves, compost, and soil. Indoor mold can grow in damp areas. Alternaria and Cladosporium are the most common outdoor mold allergens.",
+    "symptoms": ["Sneezing", "Runny nose", "Coughing", "Asthma attacks", "Skin irritation"],
+    "prevention": ["Keep indoor humidity below 50%", "Use dehumidifiers", "Fix water leaks promptly", "Avoid raking leaves", "Stay inside after rain"],
+    "affectedStates": ["FL", "LA", "MS", "AL", "GA", "SC", "NC"]
+  },
+  {
+    "slug": "timothy-grass",
+    "name": "Timothy Grass Pollen",
+    "category": "grass",
+    "peakMonths": [5, 6, 7],
+    "peakSeason": "Summer",
+    "description": "Timothy grass is one of the most common grasses in North America and a major source of grass allergies. It's widely planted as hay for livestock. Timothy grass allergy is so common it's used as a reference standard in allergy testing.",
+    "symptoms": ["Sneezing", "Nasal congestion", "Itchy watery eyes", "Asthma", "Skin reactions"],
+    "prevention": ["Avoid freshly cut grass areas", "Take antihistamines before exposure", "Shower after outdoor activities", "Wear a mask when necessary"],
+    "affectedStates": ["KY", "KS", "NE", "MO", "OH", "IN", "IL"]
+  },
+  {
+    "slug": "bermuda-grass",
+    "name": "Bermuda Grass Pollen",
+    "category": "grass",
+    "peakMonths": [4, 5, 6, 7, 8, 9],
+    "peakSeason": "Summer",
+    "description": "Bermuda grass is one of the most allergenic grasses in the southern United States, producing pollen from spring through fall in warm climates. It's widely used in lawns and sports fields throughout the Sun Belt states.",
+    "symptoms": ["Sneezing", "Runny nose", "Eye irritation", "Asthma", "Contact dermatitis"],
+    "prevention": ["Replace Bermuda grass with low-allergen alternatives", "Keep lawn mowed short", "Wear gloves and mask when mowing", "Monitor grass pollen counts"],
+    "affectedStates": ["TX", "AZ", "CA", "FL", "GA", "AL", "MS"]
+  },
+  {
+    "slug": "mugwort",
+    "name": "Mugwort Pollen",
+    "category": "weed",
+    "peakMonths": [7, 8, 9],
+    "peakSeason": "Fall",
+    "description": "Mugwort is a common roadside weed that's a significant allergen in both North America and Europe. It's cross-reactive with many foods including celery, carrots, spices, and some fruits — a condition known as Mugwort-celery syndrome.",
+    "symptoms": ["Sneezing", "Runny nose", "Oral allergy syndrome", "Skin reactions"],
+    "prevention": ["Avoid food cross-reactants during season", "Monitor local weed pollen counts", "Take antihistamines during peak season"],
+    "affectedStates": ["NY", "PA", "IL", "CA", "WA"]
+  },
+  {
+    "slug": "pine",
+    "name": "Pine Pollen",
+    "category": "tree",
+    "peakMonths": [3, 4, 5],
+    "peakSeason": "Spring",
+    "description": "Pine pollen is produced in enormous quantities and is often visible as yellow dust coating surfaces. Despite being alarming in appearance, pine pollen grains are relatively large and don't penetrate the nasal passages as easily as smaller pollen grains. Pine allergy is less common than other tree allergies.",
+    "symptoms": ["Mild nasal symptoms", "Eye irritation", "Rarely severe reactions"],
+    "prevention": ["Rinse outdoor surfaces during pine season", "Shower after outdoor activities", "Monitor pollen counts even if symptoms are mild"],
+    "affectedStates": ["NC", "SC", "GA", "FL", "OR", "WA", "ME"]
+  },
+  {
+    "slug": "alder",
+    "name": "Alder Pollen",
+    "category": "tree",
+    "peakMonths": [1, 2, 3],
+    "peakSeason": "Winter",
+    "description": "Alder trees are among the very first trees to release pollen in late winter and early spring. They're common in the Pacific Northwest and are a major allergen in that region. Alder pollen is cross-reactive with birch pollen and hazel.",
+    "symptoms": ["Winter sneezing", "Runny nose", "Itchy eyes", "Early spring congestion"],
+    "prevention": ["Prepare medications in January", "Monitor early pollen forecasts", "Use nasal sprays preventatively"],
+    "affectedStates": ["WA", "OR", "CA", "AK", "ID"]
+  },
+  {
+    "slug": "elm",
+    "name": "Elm Pollen",
+    "category": "tree",
+    "peakMonths": [2, 3, 4],
+    "peakSeason": "Spring",
+    "description": "Elm trees pollinate very early in spring, often before leaves appear. They're common street and shade trees in many American cities. Elm allergy can be severe and often catches people off guard because symptoms start while weather is still cold.",
+    "symptoms": ["Early spring sneezing", "Nasal congestion", "Itchy eyes", "Postnasal drip"],
+    "prevention": ["Start allergy medications in late winter", "Monitor early spring forecasts", "Avoid planting elm trees near homes"],
+    "affectedStates": ["MN", "IA", "IL", "OH", "MO", "KS", "NE"]
+  }
+]

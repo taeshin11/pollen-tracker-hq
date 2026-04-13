@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "Accueil", "cities": "Villes", "states": "États", "allergens": "Allergènes", "forecast": "Guide des Prévisions" },
+  "home": {
+    "hero": { "title": "Prévisions Polliniques Quotidiennes par Ville", "subtitle": "Connaissez votre risque pollinique avant de sortir", "badge": "Mis à jour quotidiennement" },
+    "search": { "placeholder": "Rechercher une ville...", "button": "Rechercher" },
+    "worstCities": { "title": "Les Pires Villes pour le Pollen Aujourd'hui", "subtitle": "Ces villes ont actuellement les niveaux de pollen les plus élevés" },
+    "features": {
+      "title": "Pourquoi utiliser PollenTrackerHQ ?",
+      "realtime": { "title": "Données en Temps Réel", "description": "Comptages quotidiens de pollen pour plus de 60 grandes villes américaines" },
+      "allergens": { "title": "Détail des Allergènes", "description": "Niveaux de pollen des arbres, graminées, herbes et moisissures séparément" },
+      "tips": { "title": "Conseils d'Experts", "description": "Conseils de gestion des allergies spécifiques à chaque ville" }
+    },
+    "explore": { "title": "Explorer les Données Polliniques", "cities": "Voir Toutes les Villes", "states": "Parcourir par État", "allergens": "Guide des Allergènes" }
+  },
+  "pollen": {
+    "level": { "low": "Faible", "moderate": "Modéré", "high": "Élevé", "very_high": "Très Élevé" },
+    "types": { "tree": "Arbre", "grass": "Graminée", "weed": "Herbe", "mold": "Moisissure" },
+    "index": "Indice Pollinique", "today": "Pollen d'Aujourd'hui", "forecast": "Prévisions Saisonnières"
+  },
+  "city": { "pollenLevels": "Niveaux de Pollen", "peakSeason": "Saison de Pointe", "tips": "Conseils Allergie", "seasonalCalendar": "Calendrier Pollinique Saisonnier", "overview": "Aperçu de la Ville" },
+  "allergen": { "symptoms": "Symptômes", "prevention": "Conseils de Prévention", "peakSeason": "Saison de Pointe", "affectedStates": "États les Plus Touchés" },
+  "forecast": { "title": "Guide des Prévisions Polliniques", "subtitle": "Comprendre les schémas polliniques saisonniers aux États-Unis", "spring": "Printemps", "summer": "Été", "fall": "Automne", "winter": "Hiver" },
+  "footer": {
+    "visitors": { "today": "Aujourd'hui : {count} visiteurs", "total": "Total : {count} visiteurs" },
+    "tagline": "Sachez avant de sortir",
+    "links": "Liens Rapides",
+    "copyright": "© 2026 PollenTrackerHQ. Tous droits réservés."
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — Prévisions Polliniques Quotidiennes par Ville", "description": "Vérifiez les niveaux de pollen pour plus de 60 grandes villes américaines. Indice de pollen des arbres, graminées, herbes et moisissures mis à jour quotidiennement." } }
+}

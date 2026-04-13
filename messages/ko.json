@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "home": "홈",
+    "cities": "도시",
+    "states": "주",
+    "allergens": "알레르겐",
+    "forecast": "예보 가이드"
+  },
+  "home": {
+    "hero": {
+      "title": "도시별 일일 꽃가루 예보",
+      "subtitle": "외출 전 꽃가루 위험도를 확인하세요",
+      "badge": "매일 업데이트"
+    },
+    "search": {
+      "placeholder": "도시 검색...",
+      "button": "검색"
+    },
+    "worstCities": {
+      "title": "오늘의 최악 꽃가루 도시",
+      "subtitle": "현재 꽃가루 수치가 가장 높은 도시들"
+    },
+    "features": {
+      "title": "PollenTrackerHQ를 사용하는 이유?",
+      "realtime": { "title": "실시간 데이터", "description": "60개 이상의 주요 미국 도시 일일 꽃가루 수치" },
+      "allergens": { "title": "알레르겐 분류", "description": "나무, 풀, 잡초, 곰팡이 꽃가루 수치 별도 제공" },
+      "tips": { "title": "전문가 팁", "description": "도시별 알레르기 관리 전문 조언" }
+    },
+    "explore": {
+      "title": "꽃가루 데이터 탐색",
+      "cities": "모든 도시 보기",
+      "states": "주별 보기",
+      "allergens": "알레르겐 가이드"
+    }
+  },
+  "pollen": {
+    "level": { "low": "낮음", "moderate": "보통", "high": "높음", "very_high": "매우 높음" },
+    "types": { "tree": "나무", "grass": "풀", "weed": "잡초", "mold": "곰팡이" },
+    "index": "꽃가루 지수",
+    "today": "오늘의 꽃가루",
+    "forecast": "계절 예보"
+  },
+  "city": {
+    "pollenLevels": "꽃가루 수치",
+    "peakSeason": "최성기",
+    "tips": "알레르기 팁",
+    "seasonalCalendar": "계절별 꽃가루 달력",
+    "overview": "도시 개요"
+  },
+  "allergen": {
+    "symptoms": "증상",
+    "prevention": "예방 팁",
+    "peakSeason": "최성기",
+    "affectedStates": "가장 영향받는 주"
+  },
+  "forecast": {
+    "title": "꽃가루 예보 가이드",
+    "subtitle": "미국 전역의 계절별 꽃가루 패턴 이해",
+    "spring": "봄철",
+    "summer": "여름철",
+    "fall": "가을철",
+    "winter": "겨울철"
+  },
+  "footer": {
+    "visitors": { "today": "오늘: {count}명 방문", "total": "총: {count}명 방문" },
+    "tagline": "외출 전 꼭 확인하세요",
+    "links": "빠른 링크",
+    "copyright": "© 2026 PollenTrackerHQ. 모든 권리 보유."
+  },
+  "meta": {
+    "home": {
+      "title": "PollenTrackerHQ — 도시별 일일 꽃가루 예보",
+      "description": "60개 이상의 주요 미국 도시 꽃가루 수치 확인. 나무, 풀, 잡초, 곰팡이 꽃가루 지수를 매일 업데이트합니다."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "ホーム", "cities": "都市", "states": "州", "allergens": "アレルゲン", "forecast": "予報ガイド" },
+  "home": {
+    "hero": { "title": "都市別日次花粉予報", "subtitle": "外出前に花粉リスクを確認", "badge": "毎日更新" },
+    "search": { "placeholder": "都市を検索...", "button": "検索" },
+    "worstCities": { "title": "今日の花粉最悪都市", "subtitle": "現在花粉レベルが最も高い都市" },
+    "features": {
+      "title": "PollenTrackerHQを使う理由",
+      "realtime": { "title": "リアルタイムデータ", "description": "60以上の主要米国都市の毎日の花粉数" },
+      "allergens": { "title": "アレルゲン別データ", "description": "樹木、草、雑草、カビの花粉レベルを個別表示" },
+      "tips": { "title": "専門家のアドバイス", "description": "都市別アレルギー管理の専門的アドバイス" }
+    },
+    "explore": { "title": "花粉データを探索", "cities": "全都市を見る", "states": "州別に見る", "allergens": "アレルゲンガイド" }
+  },
+  "pollen": {
+    "level": { "low": "低", "moderate": "中", "high": "高", "very_high": "非常に高い" },
+    "types": { "tree": "樹木", "grass": "草", "weed": "雑草", "mold": "カビ" },
+    "index": "花粉指数", "today": "今日の花粉", "forecast": "季節予報"
+  },
+  "city": { "pollenLevels": "花粉レベル", "peakSeason": "ピークシーズン", "tips": "アレルギーのヒント", "seasonalCalendar": "季節別花粉カレンダー", "overview": "都市概要" },
+  "allergen": { "symptoms": "症状", "prevention": "予防のヒント", "peakSeason": "ピークシーズン", "affectedStates": "最も影響を受ける州" },
+  "forecast": { "title": "花粉予報ガイド", "subtitle": "米国全土の季節別花粉パターンを理解する", "spring": "春", "summer": "夏", "fall": "秋", "winter": "冬" },
+  "footer": {
+    "visitors": { "today": "本日: {count}人訪問", "total": "累計: {count}人訪問" },
+    "tagline": "外出前に必ず確認",
+    "links": "クイックリンク",
+    "copyright": "© 2026 PollenTrackerHQ. 全著作権所有。"
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — 都市別日次花粉予報", "description": "60以上の主要米国都市の花粉レベルを確認。樹木、草、雑草、カビの花粉指数を毎日更新。" } }
+}

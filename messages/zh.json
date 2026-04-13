@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "首页", "cities": "城市", "states": "州", "allergens": "过敏原", "forecast": "预报指南" },
+  "home": {
+    "hero": { "title": "按城市划分的每日花粉预报", "subtitle": "出门前了解您的花粉风险", "badge": "每日更新" },
+    "search": { "placeholder": "搜索城市...", "button": "搜索" },
+    "worstCities": { "title": "今日花粉最严重城市", "subtitle": "当前花粉水平最高的城市" },
+    "features": {
+      "title": "为什么使用 PollenTrackerHQ？",
+      "realtime": { "title": "实时数据", "description": "60多个主要美国城市的每日花粉数量" },
+      "allergens": { "title": "过敏原分类", "description": "分别显示树木、草、杂草和霉菌花粉水平" },
+      "tips": { "title": "专家建议", "description": "针对特定城市的过敏管理专业建议" }
+    },
+    "explore": { "title": "探索花粉数据", "cities": "浏览所有城市", "states": "按州浏览", "allergens": "过敏原指南" }
+  },
+  "pollen": {
+    "level": { "low": "低", "moderate": "中等", "high": "高", "very_high": "非常高" },
+    "types": { "tree": "树木", "grass": "草", "weed": "杂草", "mold": "霉菌" },
+    "index": "花粉指数", "today": "今日花粉", "forecast": "季节预报"
+  },
+  "city": { "pollenLevels": "花粉水平", "peakSeason": "高峰季节", "tips": "过敏提示", "seasonalCalendar": "季节性花粉日历", "overview": "城市概览" },
+  "allergen": { "symptoms": "症状", "prevention": "预防提示", "peakSeason": "高峰季节", "affectedStates": "受影响最严重的州" },
+  "forecast": { "title": "花粉预报指南", "subtitle": "了解美国各地的季节性花粉模式", "spring": "春季", "summer": "夏季", "fall": "秋季", "winter": "冬季" },
+  "footer": {
+    "visitors": { "today": "今日: {count} 访客", "total": "总计: {count} 访客" },
+    "tagline": "出门前先了解",
+    "links": "快速链接",
+    "copyright": "© 2026 PollenTrackerHQ。保留所有权利。"
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — 按城市划分的每日花粉预报", "description": "查看60多个主要美国城市的花粉水平。每日更新树木、草、杂草和霉菌花粉指数。" } }
+}

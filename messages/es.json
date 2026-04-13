@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "Inicio", "cities": "Ciudades", "states": "Estados", "allergens": "Alérgenos", "forecast": "Guía de Pronóstico" },
+  "home": {
+    "hero": { "title": "Pronóstico Diario de Polen por Ciudad", "subtitle": "Conoce tu riesgo de polen antes de salir", "badge": "Actualizado Diariamente" },
+    "search": { "placeholder": "Buscar una ciudad...", "button": "Buscar" },
+    "worstCities": { "title": "Las Peores Ciudades de Polen Hoy", "subtitle": "Estas ciudades tienen los niveles de polen más altos" },
+    "features": {
+      "title": "¿Por qué usar PollenTrackerHQ?",
+      "realtime": { "title": "Datos en Tiempo Real", "description": "Recuentos diarios de polen para más de 60 ciudades importantes de EE.UU." },
+      "allergens": { "title": "Desglose de Alérgenos", "description": "Niveles de árbol, pasto, maleza y moho por separado" },
+      "tips": { "title": "Consejos de Expertos", "description": "Consejos de manejo de alergias específicos por ciudad" }
+    },
+    "explore": { "title": "Explorar Datos de Polen", "cities": "Ver Todas las Ciudades", "states": "Ver por Estado", "allergens": "Guía de Alérgenos" }
+  },
+  "pollen": {
+    "level": { "low": "Bajo", "moderate": "Moderado", "high": "Alto", "very_high": "Muy Alto" },
+    "types": { "tree": "Árbol", "grass": "Pasto", "weed": "Maleza", "mold": "Moho" },
+    "index": "Índice de Polen", "today": "Polen de Hoy", "forecast": "Pronóstico Estacional"
+  },
+  "city": { "pollenLevels": "Niveles de Polen", "peakSeason": "Temporada Pico", "tips": "Consejos para Alergias", "seasonalCalendar": "Calendario Estacional de Polen", "overview": "Resumen de la Ciudad" },
+  "allergen": { "symptoms": "Síntomas", "prevention": "Consejos de Prevención", "peakSeason": "Temporada Pico", "affectedStates": "Estados Más Afectados" },
+  "forecast": { "title": "Guía de Pronóstico de Polen", "subtitle": "Comprendiendo los patrones estacionales de polen en EE.UU.", "spring": "Primavera", "summer": "Verano", "fall": "Otoño", "winter": "Invierno" },
+  "footer": {
+    "visitors": { "today": "Hoy: {count} visitantes", "total": "Total: {count} visitantes" },
+    "tagline": "Sabe antes de salir",
+    "links": "Enlaces Rápidos",
+    "copyright": "© 2026 PollenTrackerHQ. Todos los derechos reservados."
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — Pronóstico Diario de Polen por Ciudad", "description": "Consulta los niveles de polen de más de 60 ciudades importantes de EE.UU. Índice de polen de árbol, pasto, maleza y moho actualizado diariamente." } }
+}

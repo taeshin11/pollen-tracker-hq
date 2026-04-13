@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "Startseite", "cities": "Städte", "states": "Bundesstaaten", "allergens": "Allergene", "forecast": "Prognose-Leitfaden" },
+  "home": {
+    "hero": { "title": "Tägliche Pollenvorhersage nach Stadt", "subtitle": "Kennen Sie Ihr Pollenrisiko bevor Sie nach draußen gehen", "badge": "Täglich aktualisiert" },
+    "search": { "placeholder": "Stadt suchen...", "button": "Suchen" },
+    "worstCities": { "title": "Heutige schlimmste Pollenstädte", "subtitle": "Diese Städte haben derzeit die höchsten Pollenwerte" },
+    "features": {
+      "title": "Warum PollenTrackerHQ nutzen?",
+      "realtime": { "title": "Echtzeit-Daten", "description": "Tägliche Pollenzählungen für mehr als 60 wichtige US-Städte" },
+      "allergens": { "title": "Allergen-Aufschlüsselung", "description": "Baum-, Gras-, Unkraut- und Schimmelpollenwerte separat" },
+      "tips": { "title": "Expertentipps", "description": "Stadtspezifische Allerie-Management-Ratschläge von Experten" }
+    },
+    "explore": { "title": "Pollendaten erkunden", "cities": "Alle Städte anzeigen", "states": "Nach Bundesstaat durchsuchen", "allergens": "Allergen-Leitfaden" }
+  },
+  "pollen": {
+    "level": { "low": "Niedrig", "moderate": "Mäßig", "high": "Hoch", "very_high": "Sehr Hoch" },
+    "types": { "tree": "Baum", "grass": "Gras", "weed": "Unkraut", "mold": "Schimmel" },
+    "index": "Pollenindex", "today": "Heutiger Pollen", "forecast": "Saisonale Prognose"
+  },
+  "city": { "pollenLevels": "Pollenwerte", "peakSeason": "Hochsaison", "tips": "Allergie-Tipps", "seasonalCalendar": "Saisonaler Pollenkalender", "overview": "Stadtübersicht" },
+  "allergen": { "symptoms": "Symptome", "prevention": "Präventionstipps", "peakSeason": "Hochsaison", "affectedStates": "Am stärksten betroffene Bundesstaaten" },
+  "forecast": { "title": "Pollenprognose-Leitfaden", "subtitle": "Saisonale Pollenmuster in den USA verstehen", "spring": "Frühling", "summer": "Sommer", "fall": "Herbst", "winter": "Winter" },
+  "footer": {
+    "visitors": { "today": "Heute: {count} Besucher", "total": "Gesamt: {count} Besucher" },
+    "tagline": "Wissen, bevor Sie nach draußen gehen",
+    "links": "Schnelllinks",
+    "copyright": "© 2026 PollenTrackerHQ. Alle Rechte vorbehalten."
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — Tägliche Pollenvorhersage nach Stadt", "description": "Pollenbelastung für mehr als 60 wichtige US-Städte prüfen. Baum-, Gras-, Unkraut- und Schimmelpollenindex täglich aktualisiert." } }
+}

@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "cities": "Cities",
+    "states": "States",
+    "allergens": "Allergens",
+    "forecast": "Forecast Guide"
+  },
+  "home": {
+    "hero": {
+      "title": "Daily Pollen Forecast by City",
+      "subtitle": "Know your pollen risk before you step outside",
+      "badge": "Updated Daily"
+    },
+    "search": {
+      "placeholder": "Search for a city...",
+      "button": "Search"
+    },
+    "worstCities": {
+      "title": "Today's Worst Cities for Pollen",
+      "subtitle": "These cities currently have the highest pollen levels"
+    },
+    "features": {
+      "title": "Why Use PollenTrackerHQ?",
+      "realtime": {
+        "title": "Real-Time Data",
+        "description": "Updated daily pollen counts for 60+ major US cities"
+      },
+      "allergens": {
+        "title": "Allergen Breakdown",
+        "description": "Tree, grass, weed, and mold pollen levels separately"
+      },
+      "tips": {
+        "title": "Expert Tips",
+        "description": "City-specific allergy management advice from experts"
+      }
+    },
+    "explore": {
+      "title": "Explore Pollen Data",
+      "cities": "Browse All Cities",
+      "states": "Browse by State",
+      "allergens": "Allergen Guide"
+    }
+  },
+  "pollen": {
+    "level": {
+      "low": "Low",
+      "moderate": "Moderate",
+      "high": "High",
+      "very_high": "Very High"
+    },
+    "types": {
+      "tree": "Tree",
+      "grass": "Grass",
+      "weed": "Weed",
+      "mold": "Mold"
+    },
+    "index": "Pollen Index",
+    "today": "Today's Pollen",
+    "forecast": "Seasonal Forecast"
+  },
+  "city": {
+    "pollenLevels": "Pollen Levels",
+    "peakSeason": "Peak Season",
+    "tips": "Allergy Tips",
+    "seasonalCalendar": "Seasonal Pollen Calendar",
+    "overview": "City Overview"
+  },
+  "allergen": {
+    "symptoms": "Symptoms",
+    "prevention": "Prevention Tips",
+    "peakSeason": "Peak Season",
+    "affectedStates": "Most Affected States"
+  },
+  "forecast": {
+    "title": "Pollen Forecast Guide",
+    "subtitle": "Understanding seasonal pollen patterns across the US",
+    "spring": "Spring Season",
+    "summer": "Summer Season",
+    "fall": "Fall Season",
+    "winter": "Winter Season"
+  },
+  "footer": {
+    "visitors": {
+      "today": "Today: {count} visitors",
+      "total": "Total: {count} visitors"
+    },
+    "tagline": "Know before you go outside",
+    "links": "Quick Links",
+    "copyright": "© 2026 PollenTrackerHQ. All rights reserved."
+  },
+  "meta": {
+    "home": {
+      "title": "PollenTrackerHQ — Daily Pollen Forecast by City",
+      "description": "Check today's pollen levels for 60+ major US cities. Tree, grass, weed, and mold pollen index updated daily. Know before you go outside."
+    }
+  }
+}

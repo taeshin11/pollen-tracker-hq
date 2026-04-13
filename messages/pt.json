@@ -1,0 +1,30 @@
+{
+  "nav": { "home": "Início", "cities": "Cidades", "states": "Estados", "allergens": "Alérgenos", "forecast": "Guia de Previsão" },
+  "home": {
+    "hero": { "title": "Previsão Diária de Pólen por Cidade", "subtitle": "Conheça seu risco de pólen antes de sair", "badge": "Atualizado Diariamente" },
+    "search": { "placeholder": "Pesquisar uma cidade...", "button": "Pesquisar" },
+    "worstCities": { "title": "As Piores Cidades de Pólen Hoje", "subtitle": "Essas cidades têm atualmente os maiores níveis de pólen" },
+    "features": {
+      "title": "Por que usar o PollenTrackerHQ?",
+      "realtime": { "title": "Dados em Tempo Real", "description": "Contagens diárias de pólen para mais de 60 cidades importantes dos EUA" },
+      "allergens": { "title": "Detalhamento de Alérgenos", "description": "Níveis de pólen de árvore, grama, erva daninha e mofo separadamente" },
+      "tips": { "title": "Dicas de Especialistas", "description": "Conselhos de gerenciamento de alergias específicos por cidade" }
+    },
+    "explore": { "title": "Explorar Dados de Pólen", "cities": "Ver Todas as Cidades", "states": "Navegar por Estado", "allergens": "Guia de Alérgenos" }
+  },
+  "pollen": {
+    "level": { "low": "Baixo", "moderate": "Moderado", "high": "Alto", "very_high": "Muito Alto" },
+    "types": { "tree": "Árvore", "grass": "Grama", "weed": "Erva Daninha", "mold": "Mofo" },
+    "index": "Índice de Pólen", "today": "Pólen de Hoje", "forecast": "Previsão Sazonal"
+  },
+  "city": { "pollenLevels": "Níveis de Pólen", "peakSeason": "Temporada de Pico", "tips": "Dicas para Alergias", "seasonalCalendar": "Calendário Sazonal de Pólen", "overview": "Visão Geral da Cidade" },
+  "allergen": { "symptoms": "Sintomas", "prevention": "Dicas de Prevenção", "peakSeason": "Temporada de Pico", "affectedStates": "Estados Mais Afetados" },
+  "forecast": { "title": "Guia de Previsão de Pólen", "subtitle": "Entendendo os padrões sazonais de pólen nos EUA", "spring": "Primavera", "summer": "Verão", "fall": "Outono", "winter": "Inverno" },
+  "footer": {
+    "visitors": { "today": "Hoje: {count} visitantes", "total": "Total: {count} visitantes" },
+    "tagline": "Saiba antes de sair",
+    "links": "Links Rápidos",
+    "copyright": "© 2026 PollenTrackerHQ. Todos os direitos reservados."
+  },
+  "meta": { "home": { "title": "PollenTrackerHQ — Previsão Diária de Pólen por Cidade", "description": "Verifique os níveis de pólen para mais de 60 cidades importantes dos EUA. Índice de pólen de árvore, grama, erva daninha e mofo atualizado diariamente." } }
+}
