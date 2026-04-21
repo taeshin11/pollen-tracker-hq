@@ -1,12 +1,7 @@
-import { MetadataRoute } from "next";
-
+import type { MetadataRoute } from 'next';
 export default function robots(): MetadataRoute.Robots {
   return {
-    rules: {
-      userAgent: "*",
-      allow: "/",
-      disallow: "/api/",
-    },
-    sitemap: "https://pollen-tracker-hq.vercel.app/sitemap.xml",
+    rules: [{ userAgent: '*', allow: '/' }],
+    sitemap: 'https://pollen-tracker-hq.vercel.app/sitemap.xml',
   };
 }

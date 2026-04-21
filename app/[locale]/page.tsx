@@ -5,6 +5,9 @@ import { PollenIndex } from "@/components/PollenIndex";
 import cities from "@/data/cities-fallback.json";
 import type { PollenLevel } from "@/lib/utils";
 
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
+
 export async function generateMetadata({
   params,
 }: {
@@ -251,6 +254,8 @@ export default async function HomePage({ params }: PageProps) {
           </Link>
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
 
       {/* Native Ad Placeholder */}
       <div

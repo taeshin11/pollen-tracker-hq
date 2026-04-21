@@ -63,19 +63,44 @@ export function Footer({ locale }: FooterProps) {
 
           {/* Info */}
           <div>
-            <h3 className="font-semibold text-gray-700 mb-3">About</h3>
-            <p className="text-sm text-gray-500 mb-2">
-              PollenTrackerHQ provides daily pollen index data for allergy sufferers across the United States.
-            </p>
+            <h3 className="font-semibold text-gray-700 mb-3">Company</h3>
+            <ul className="space-y-2 mb-3">
+              {[
+                { href: `/${locale}/about`, label: "About Us" },
+                { href: `/${locale}/how-to-use`, label: "How to Use" },
+                { href: `/${locale}/privacy`, label: "Privacy Policy" },
+                { href: `/${locale}/terms`, label: "Terms of Use" },
+              ].map((link) => (
+                <li key={link.href}>
+                  <Link
+                    href={link.href}
+                    className="text-sm text-gray-500 hover:text-lime-700 transition-colors"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
             <p className="text-xs text-gray-400">
               Data updated daily from public sources. Always consult a healthcare provider for medical advice.
             </p>
           </div>
         </div>
 
-        <div className="border-t border-gray-100 mt-8 pt-6 text-center">
+        <div className="border-t border-gray-100 mt-8 pt-6 text-center space-y-1">
           <p className="text-xs text-gray-400">
             © 2026 PollenTrackerHQ. All rights reserved. | Daily Pollen Forecast by City
+          </p>
+          <p className="text-xs text-gray-300">
+            Built by{' '}
+            <a
+              href="http://spinai.net/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-lime-600 transition-colors underline-offset-2 hover:underline"
+            >
+              SPINAI
+            </a>
           </p>
         </div>
       </div>

@@ -50,6 +50,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.6,
     });
 
+    // Content pages
+    for (const slug of ["about", "how-to-use", "privacy", "terms"]) {
+      routes.push({
+        url: `${BASE_URL}/${locale}/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: "monthly",
+        priority: 0.5,
+      });
+    }
+
     // City detail pages (only for English to avoid duplicate limit)
     if (locale === "en") {
       for (const city of cities) {
